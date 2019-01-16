@@ -11973,11 +11973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gdu4\\Source\\Repos\\Solution\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\gdu4\\Source\\Repos\\lhu3319\\0116_1\\Solution\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\Users\\gdu4\\Source\\Repos\\Solution\\WebApplication\\WebApplication.csproj",
+      "projectPath": "C:\\Users\\gdu4\\Source\\Repos\\lhu3319\\0116_1\\Solution\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\gdu4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gdu4\\Source\\Repos\\Solution\\WebApplication\\obj\\",
+      "outputPath": "C:\\Users\\gdu4\\Source\\Repos\\lhu3319\\0116_1\\Solution\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11996,8 +11996,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\gdu4\\Source\\Repos\\Solution\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\gdu4\\Source\\Repos\\Solution\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\Users\\gdu4\\Source\\Repos\\lhu3319\\0116_1\\Solution\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\gdu4\\Source\\Repos\\lhu3319\\0116_1\\Solution\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }
