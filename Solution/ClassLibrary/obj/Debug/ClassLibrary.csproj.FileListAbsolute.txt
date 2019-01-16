@@ -8,3 +8,16 @@ C:\Users\gdu4\Source\Repos\Solution\ClassLibrary\obj\Debug\ClassLibrary.csproj.C
 C:\Users\gdu4\Source\Repos\Solution\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
 C:\Users\gdu4\Source\Repos\Solution\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\gdu4\Source\Repos\Solution\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\bin\Debug\MySql.Data.dll
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\bin\Debug\MySql.Data.xml
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\gdu4\Source\Repos\lhu3319\0116_1\Solution\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
